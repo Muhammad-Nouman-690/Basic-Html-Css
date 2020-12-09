@@ -1,0 +1,24 @@
+.head {
+    background-color: gray;
+}
+
+.sec {
+    background-color: greenyellow;
+}
+
+.aside {
+    background-color: yellowgreen;
+}
+
+.foot {
+    background-color: brown;
+}
+
+section {
+    float: left;
+}
+
+aside {
+    float: right;
+}
+
