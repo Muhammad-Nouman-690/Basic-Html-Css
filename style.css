@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    
 }
 
 body {
@@ -10,7 +11,7 @@ body {
 
 header {
     background-color: #666;
-    padding: 30px;
+    padding: 10px;
     text-align: center;
     font-size: 35px;
     color: white;
@@ -21,8 +22,8 @@ header {
 nav {
     float: left;
     width: 30%;
-    height: 505px;  /* only for demonstration, should be removed */
-    background: #ccc;
+    height: 506px;  /* only for demonstration, should be removed */
+    background:#ccc;
     padding: 20px;
 }
 
@@ -30,7 +31,7 @@ nav {
 
 nav ul {
     list-style-type: none ;
-    padding: 0;
+    padding: 20px;
 }
 
 article {
@@ -39,7 +40,6 @@ article {
     width: 70%;
     background-color: #f1f1f1;
     height: 300px;
-
 }
 
 /* Clear floats after the columns */
